@@ -7,10 +7,10 @@ I'm a passionate **Frontend Web Developer** and a current **AI Student** 🎓. I
   - HTML, CSS, JavaScript, React, Next.js
   - Responsive Design and Accessibility
 - **AI/ML**: 
-  - Python, TensorFlow, Scikit-learn
+  - Python, ML Algorithms, Scikit-learn
   - Basic knowledge of Neural Networks and Data Visualization
 - **Tools**: 
-  - Git, VS Code, Figma, Postman
+  - Git, VS Code, Figma
 
 ## 💡 My Journey
 Currently, I’m exploring the intersection of frontend development and artificial intelligence. I believe that combining these areas can lead to the creation of intelligent, user-centric applications. I’m particularly interested in how AI can enhance user experiences through personalization and automation.
